@@ -1,0 +1,7 @@
+{
+  "name": "@issue-webstorm-vue-import/app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@issue-webstorm-vue-import/lib": "workspace:*"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "issue-webstorm-vue-import",
+  "version": "1.0.0",
+  "dependencies": {
+    "vue": "3.2.45",
+    "typescript": "4.8.4"
+  }
+}
